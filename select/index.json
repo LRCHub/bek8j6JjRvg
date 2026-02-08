@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "So Good",
+  "base_artist": "REIKO",
+  "createdAt": "2026-02-08T09:37:03.254812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fallin' Never Felt So Good",
+      "artist": "Shawn Camp",
+      "has_synced": true,
+      "path": "select/01_Fallin'_Never_Felt_So_Good_Shawn_Camp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Look So Good In Love",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_You_Look_So_Good_In_Love_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Look So Good In Love (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_You_Look_So_Good_In_Love_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Look So Good In Love (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/04_You_Look_So_Good_In_Love_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Never Had It So Good",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/05_You_Never_Had_It_So_Good_RJD2.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She's So Good to Me",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/06_She's_So_Good_to_Me_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel So Good",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/07_Feel_So_Good_Mase.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feels So Good",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/08_Feels_So_Good_S-X.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Feel So Good (I Wanna Boogie)",
+      "artist": "Magic Sam",
+      "has_synced": false,
+      "path": "select/09_I_Feel_So_Good_(I_Wanna_Boogie)_Magic_Sam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Feel So Good (Live)",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/10_I_Feel_So_Good_(Live)_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've Never Felt So Good",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/11_I've_Never_Felt_So_Good_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Move - You Make Me Feel So Good",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/12_Move_-_You_Make_Me_Feel_So_Good_Moby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Move (You Make Me Feel So Good)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/13_Move_(You_Make_Me_Feel_So_Good)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel So Good",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/14_Feel_So_Good_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "feels so good",
+      "artist": "recovery girl feat. diana starshine, GFOTY, Lil Mariko & Space Candy",
+      "has_synced": true,
+      "path": "select/15_feels_so_good_recovery_girl_feat._diana_starshine,_GFOTY,_Lil_Mariko_&_Space_Candy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "feels so good (feat. space candy, gfoty, lil mariko, & diana starshine)",
+      "artist": "recovery girl",
+      "has_synced": true,
+      "path": "select/16_feels_so_good_(feat._space_candy,_gfoty,_lil_mariko,_&_diana_starshine)_recovery_girl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Good",
+      "artist": "REIKO",
+      "has_synced": false,
+      "path": "select/pl_01_So_Good_REIKO.txt"
+    }
+  ]
+}
